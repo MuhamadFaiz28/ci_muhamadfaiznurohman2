@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework
+# CodeIgniter 4 Framework Muhamad Faiz Nurohman SMKS Al-Ma'Mun Sumedang
 
 ## What is CodeIgniter?
 
